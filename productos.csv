@@ -1,0 +1,620 @@
+ID,Item,Nombre Producto,Grupo,Categoría,Emoji,Marca,Características,Imagen
+1,1,FUENTE DE PODER AVATEC PSA-F600W,Componentes de PC,FUENTES DE PODER,🔆,AVATEC,"Potencia: 600W. Ideal para PCs de oficina y gaming básico.
+Conectores: ATX 24 pines, CPU 4+4 pines, SATA y Molex.
+Ventilador silencioso con protección contra sobrecarga y cortocircuito.",img/p001.png
+2,1,MEMORIA DIMM DDR3 8GB 1600,Componentes de PC,MEMORIAS RAM,🧠,BOETEC,"Memoria: 8 GB DDR3 a 1600 MHz (PC3-12800).
+Formato DIMM de 240 pines para PC de escritorio.
+Mejora la velocidad de multitarea y apertura de programas.",img/p002.png
+3,1,PLACA B365 - BOETEC,Componentes de PC,PLACAS MADRE,🧩,BOETEC,"Socket LGA1151, compatible con procesadores Intel Core i3/i5/i7 de 6ta, 7ma, 8va y 9na generación.
+Soporta memoria DDR4 de 2133/2400/2666/3200 MHz, doble canal, hasta 32 GB. Conector M.2 NVMe/NGFF.
+Salidas HDMI, VGA y DVI. 2 USB 3.0, 4 USB 2.0, red RJ45, ranuras PCI-E x16 y x1, conector WiFi.",img/p003.png
+4,1,SSD SATA 256GB BOETEC 2.5 SATA III,Almacenamiento,DISCOS SSD,💽,BOETEC,"Capacidad: 256 GB. Formato de 2.5 pulgadas con interfaz SATA III.
+Velocidad de lectura de hasta 600 MB/s y escritura de hasta 550 MB/s.
+Arranque rápido, silencioso y resistente a golpes.",img/p004.png
+5,1,NVIDIA GEFORCE G210 1 GB DDR3,Componentes de PC,TARJETAS GRÁFICAS,🎮,BOETEC,"Memoria: 1 GB DDR3. Tarjeta de perfil bajo.
+Puertos de salida múltiple: VGA, HDMI, DVI.
+Ideal para revivir PCs antiguas y mejorar ofimática básica.",img/p005.png
+6,1,CÁMARA INTELIGENTE EZVIZ CB1,Seguridad,CÁMARAS DE VIGILANCIA,📹,EZVIZ,"Cámara Wi-Fi con batería para hogar inteligente. Resolución 1080p.
+Visión nocturna infrarroja (hasta 5 m) y detección inteligente de movimiento de personas.
+Batería recargable de 1,600 mAh (hasta 40 días), base magnética, audio bidireccional, microSD hasta 512 GB y carga USB tipo C.",img/p006.png
+7,1,PANTALLA SLIM 15.6 - 30 PINES HD CON GANCHOS 1366 X 768,Portátiles,PANTALLAS PARA PORTÁTIL,🖥️,GENÉRICA,"Pantalla de reemplazo de 15.6"" tipo Slim, resolución HD 1366 x 768.
+Conector de 30 pines con ganchos laterales de sujeción.
+Compatible con múltiples laptops (verificar modelo). Repuesto 100% nuevo.",img/p007.png
+8,1,GENIUS KM-8206S,Periféricos y accesorios,KIT TECLADO Y MOUSE,🎹,GENIUS,"Kit inalámbrico de teclado y mouse con conexión 2.4 GHz.
+Receptor USB tipo Plug & Play, sin instalación de drivers.
+Diseño delgado y silencioso, ideal para el hogar y la oficina.",img/p008.png
+9,1,CAJA DE MANTENIMIENTO EPSON,Impresión,TINTAS Y CARTUCHOS,🖨️,EPSON,"Compatible con: Epson L4260, L6161, L6171, L6270, L14150, M2170, M3170.
+Recoge la tinta residual de la impresora.
+Evita derrames y mantiene la impresión limpia y continua.",img/p009.png
+10,1,MEMORIA MICRO SD KINGSTON 64GB CON ADAPTADOR,Almacenamiento,MEMORIAS MICRO SD,📀,KINGSTON,"Capacidad: 64 GB con adaptador SD incluido.
+Clase 10, ideal para fotos, video Full HD y almacenamiento en celulares y cámaras.
+Marca Kingston: alta durabilidad y compatibilidad.",img/p010.png
+11,1,MEMORIA USB 64 GB,Almacenamiento,MEMORIAS USB,💾,KINGSTON,"Capacidad: 64 GB para documentos, fotos y videos.
+Conexión USB Plug & Play, compatible con Windows, Mac y Linux.
+Diseño compacto y resistente, fácil de llevar a todas partes.",img/p011.png
+12,1,"ESTABILIZADOR OMEGA 4A2K02 PCG1200 600VA, 220V",Energía y protección,ESTABILIZADORES,📟,OMEGA,"Capacidad: 600VA / 220V. Ideal para PC, monitor e impresora.
+Regula el voltaje y protege contra subidas y bajadas de tensión.
+Múltiples tomas de salida con protección incorporada.",img/p012.png
+13,1,SUPRESOR DE PICOS OMEGA 492723BK,Energía y protección,SUPRESORES DE PICO,🛡️,OMEGA,"6 salidas de tipo redondo y plano.
+Color negro, cable de 91.44 cm.
+Protege tus equipos contra picos de voltaje.",img/p013.png
+14,1,UPS OMEGA 461652 220V/650VA 650VA/325W,Energía y protección,UPS,🔋,OMEGA,"Capacidad: 650VA / 325W (Ideal para 1 PC básica y monitor).
+Protección contra apagones, picos de voltaje y cortocircuitos.
+Alarma audible inteligente ante fallas de energía.",img/p014.png
+15,1,TECLADO TOSHIBA C845 - L845,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,TOSHIBA,"Compatible con series: Toshiba Satellite C840, C845, L840, L845.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo con teclado numérico integrado.",img/p015.png
+16,1,CABLE POWER PARA PC,Periféricos y accesorios,CABLES,🔗,GENÉRICA,"Cable de alimentación estándar para PC, monitor e impresora.
+Conector tipo C13 (tres pines) de alta compatibilidad.
+Cobre de buena conductividad y cubierta resistente.",img/p016.png
+17,1,MOUSE GAMING - HP G200,Periféricos y accesorios,MOUSES,🖱️,HP,"Mouse óptico para juegos con sensor óptico Avago 3050 e interruptores Omron.
+DPI ajustable por luz LED: 500 / 1000 / 1500 / 2000 / 3000 / 4000. Tasa de reporte 500 Hz.
+Diseño ergonómico y aerodinámico para uso prolongado sin fatiga. Compatible con Windows y macOS.",img/p017.png
+18,1,PAD MOUSE ACOLCHADO,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"Pad mouse acolchado en color morado.
+Superficie suave que mejora el deslizamiento y la precisión del mouse.
+Ideal para oficina y gaming.",img/p018.png
+19,1,AUDIFONO MOTOROLA PULSE 2,Periféricos y accesorios,AUDÍFONOS,🎧,MOTOROLA,"Audífonos con cable tipo on-ear, con micrófono en línea para llamadas manos libres.
+Control de volumen en el cable, cable resistente a enredos y drivers de 36 mm.
+Ligeros (aprox. 100 g) y cómodos para uso diario.",img/p019.png
+20,1,TECLADO MECÁNICO GAMER RGB ONE-SHOT ,Periféricos y accesorios,TECLADOS,⌨️,VANDROX,"Teclado mecánico con iluminación RGB personalizable.
+Switches de respuesta rápida y táctil para gaming.
+Conexión USB. Estructura resistente y diseño gamer.",img/p020.png
+21,1,BATERIA TOSHIBA 5185U / 5186U,Portátiles,BATERIAS PARA PORTÁTIL,🔋,TOSHIBA,"Compatible con laptops Toshiba Satellite C55, C55D, C55T, L55, L55D y L55T.
+Batería de iones de litio de larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p021.png
+22,1,CARGADOR LENOVO LEGION 20V 6.75A 135W CONECTOR TIPO C ORIGINAL,Portátiles,CARGADORES PARA PORTÁTIL,🔌,LENOVO,"Cargador original de 135 W para laptops Lenovo Legion con conector USB tipo C.
+Salidas: 5V / 9V / 12V / 15V a 3A y 20V a 6.75A.
+Carga rápida y estable con protección contra sobrecalentamiento.",img/p022.png
+23,1,POWER JACK TOSHIBA C645,Portátiles,JACK DE CARGA,⚡,TOSHIBA,"Conector de carga DC para laptops Toshiba Satellite C645.
+Incluye cable listo para instalar.
+Repuesto 100% nuevo. Soluciona fallas de carga por conector dañado.",img/p023.png
+24,1,COOLER TOSHIBA C645,Portátiles,COOLERS PARA PORTÁTIL,❄️,TOSHIBA,"Ventilador de refrigeración para laptops Toshiba Satellite C645.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p024.png
+25,2,SSD SATA 256GB ADATA 2.5 SATA III,Almacenamiento,DISCOS SSD,💽,ADATA,"Capacidad: 256 GB. Formato de 2.5 pulgadas con interfaz SATA III.
+Velocidad de lectura de hasta 520 MB/s y escritura de hasta 450 MB/s.
+Arranque rápido, silencioso y resistente a golpes.",img/p025.png
+26,2,MEMORIA DIMM DDR4 8GB 3200,Componentes de PC,MEMORIAS RAM,🧠,BOETEC,"Memoria: 8 GB DDR4 a 3200 MHz (PC4-25600).
+Formato DIMM de 288 pines para PC de escritorio.
+Menor consumo y mayor velocidad para multitarea y trabajo fluido.",img/p026.png
+27,2,PLACA H75 - BOETEC,Componentes de PC,PLACAS MADRE,🧩,BOETEC,"Socket LGA1155 (procesadores Intel i3/i5/i7 de 2da y 3ra generación).
+Soporta 2 módulos DDR3 de 1066/1333/1600 MHz (máx. 16 GB). Salida VGA y HDMI.
+4 USB 2.0, 2 USB 3.0, ranura PCI-E x16 y x1, red RJ45 y slot M.2 SATA.",img/p027.png
+28,2,NVIDIA GEFORCE GT 610 DE 2GB DDR3,Componentes de PC,TARJETAS GRÁFICAS,🎮,BOETEC,"Memoria: 2 GB DDR3. Interfaz PCI Express 2.0.
+Puertos: HDMI, VGA, DVI.
+Ideal para multimedia HD, ofimática y juegos ligeros.",img/p028.png
+29,2,CÁMARA INTELIGENTE EZVIZ H1C,Seguridad,CÁMARAS DE VIGILANCIA,📹,EZVIZ,"Cámara Wi-Fi inteligente para el hogar (Wi-Fi 2.4 GHz).
+Detección de movimiento y comunicación bidireccional.
+Instalación con base magnética. Soporta microSD hasta 512 GB y almacenamiento en la nube EZVIZ CloudPlay.",img/p029.png
+30,2,PANTALLA SLIM 15.6 - 30 PINES HD MARCO REDUCIDO SIN GANCHOS 1366 X 768,Portátiles,PANTALLAS PARA PORTÁTIL,🖥️,GENÉRICA,"Pantalla de reemplazo de 15.6"" tipo Slim, resolución HD 1366 x 768.
+Conector de 30 pines, marco reducido y sin ganchos laterales.
+Compatible con múltiples laptops (verificar modelo). Repuesto 100% nuevo.",img/p030.png
+31,2,GENIUS KB 100,Periféricos y accesorios,TECLADOS,⌨️,GENIUS,"Teclado estándar con cable USB, conexión Plug & Play.
+Distribución en Español (Incluye tecla Ñ) con teclado numérico.
+Diseño resistente y teclas de escritura cómoda para el hogar y la oficina.",img/p031.png
+32,2,TINTA EPSON 504,Impresión,TINTAS Y CARTUCHOS,🖨️,EPSON,"Impresoras compatibles: Epson L4150, L4160, L4260, L6171, L6191, L6270.
+Tinta original para sistema continuo (Tanque de tinta). Colores: negro, magenta y cian.
+Botella con llenado limpio y alto rendimiento por recarga.",img/p032.png
+33,2,MEMORIA USB 128 GB,Almacenamiento,MEMORIAS USB,💾,KINGSTON,"Capacidad: 128 GB para documentos, fotos y videos.
+Conexión USB Plug & Play, compatible con Windows, Mac y Linux.
+Diseño compacto y resistente, fácil de llevar a todas partes.",img/p033.png
+34,2,KLIP XTREME AKOUSTIKFX,Periféricos y accesorios,AUDÍFONOS,🎧,KLIP XTREME,"Audífonos con cable de 1.2 metros y conector jack de 3.5 mm.
+Sensibilidad 107 dB ± 3 dB. Potencia nominal 25 mW.
+Peso ligero de 180 gramos para uso prolongado.",img/p034.png
+35,2,LOGITECH MK120,Periféricos y accesorios,KIT TECLADO Y MOUSE,🎹,LOGITECH,"Kit de teclado y mouse con cable USB, instalación Plug & Play.
+Teclado de tamaño completo con teclado numérico y distribución en Español.
+Mouse óptico de precisión y teclas silenciosas. Ideal para oficina y hogar.",img/p035.png
+36,2,"ESTABILIZADOR OMEGA 4A2K03 PCG2000 1000VA,220VA",Energía y protección,ESTABILIZADORES,📟,OMEGA,"Capacidad: 1000VA / 220V. Ideal para PC, monitor, impresora y equipos de oficina.
+Regula el voltaje y protege contra subidas y bajadas de tensión.
+Múltiples tomas de salida con protección incorporada.",img/p036.png
+37,2,SUPRESOR DE PICOS OMEGA 491124BK,Energía y protección,SUPRESORES DE PICO,🛡️,OMEGA,"6 salidas de tipo redondo y plano.
+Conexión tipo USA, cable de 121.92 cm.
+Protege tus equipos contra picos de voltaje.",img/p037.png
+38,2,UPS OMEGA 461852 220V/850VA 850VA/425W TIEMPO: 10A 15 MINUTOS,Energía y protección,UPS,🔋,OMEGA,"Capacidad: 850VA / 425W.
+Tiempo de respaldo estimado: 10 a 15 minutos.
+Regulador automático de voltaje (AVR) integrado.",img/p038.png
+39,2,TECLADO TOSHIBA C45,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,TOSHIBA,"Compatible con series: Toshiba Satellite C45, C45-A, C50, C55.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo con teclado numérico integrado.",img/p039.png
+40,2,CABLE HDMI 1.5 M.,Periféricos y accesorios,CABLES,🔗,GENÉRICA,"Longitud: 1.5 metros.
+Transmisión de video y audio digital en alta definición (Full HD 1080p).
+Conectores chapados de alta compatibilidad para TV, monitor, laptop y proyector.",img/p040.png
+41,2,MOUSE GENIUS DX - 110 CON CABLE,Periféricos y accesorios,MOUSES,🖱️,GENIUS,"Mouse óptico con cable USB, conexión Plug & Play.
+Sensor óptico de 1000 DPI para un desplazamiento preciso.
+Diseño ergonómico y ambidiestro para uso cómodo en oficina y hogar.",img/p041.png
+42,2,M.2 SSD SHL-R320 USB TIPO C,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"Case externo (enclosure) portátil para SSD M.2 con conexión USB tipo C.
+Convierte tu SSD M.2 en una unidad externa de alta velocidad.
+Diseño compacto, ideal para respaldo y transporte de datos.",img/p042.png
+43,2,BATERIA TOSHIBA 3817 / 3819,Portátiles,BATERIAS PARA PORTÁTIL,🔋,TOSHIBA,"Compatible con laptops Toshiba Satellite (series C650, C655, L630, L640, L650, L655 y similares).
+Batería de iones de litio de larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p043.png
+44,2,CARGADOR LENOVO 20V 3.25A PUNTA FINA DELGADA ORIGINAL,Portátiles,CARGADORES PARA PORTÁTIL,🔌,LENOVO,"Salida: 20V / 3.25A (65W) con punta fina delgada.
+Cargador original para laptops Lenovo compatibles (series IdeaPad y similares).
+Carga estable con protección contra sobrecalentamiento.",img/p044.png
+45,2,POWER JACK TOSHIBA C845,Portátiles,JACK DE CARGA,⚡,TOSHIBA,"Conector de carga DC para laptops Toshiba Satellite C845.
+Incluye cable listo para instalar.
+Repuesto 100% nuevo. Soluciona fallas de carga por conector dañado.",img/p045.png
+46,2,COOLER TOSHIBA C655,Portátiles,COOLERS PARA PORTÁTIL,❄️,TOSHIBA,"Ventilador de refrigeración para laptops Toshiba Satellite C655.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p046.png
+47,3,SSD SATA 2.5 512 GB BIWIN,Almacenamiento,DISCOS SSD,💽,BIWIN,"Capacidad: 512 GB. Formato de 2.5 pulgadas con interfaz SATA III.
+Velocidad de lectura y escritura de hasta 500 MB/s.
+Arranque rápido, silencioso y resistente a golpes.",img/p047.png
+48,3,PLACA H85 - BOETEC,Componentes de PC,PLACAS MADRE,🧩,BOETEC,"Socket LGA1150 (procesadores Intel i3/i5/i7 de 4ta generación).
+Soporta 2 módulos DDR3 de 1066/1333/1600 MHz (máx. 16 GB). Salida VGA y HDMI.
+4 USB 2.0, 2 USB 3.0, red RJ45 y socket M.2 SATA.",img/p048.png
+49,3,NVIDIA GEFORCE GT 730 4GB DDR3,Componentes de PC,TARJETAS GRÁFICAS,🎮,BOETEC,"Memoria: 4 GB DDR3. Interfaz PCI Express 2.0.
+Puertos: HDMI, VGA, DVI.
+Excelente para multimedia HD, diseño básico y juegos ligeros.",img/p049.png
+50,3,MEMORIA SODIMM 8GB 2666,Componentes de PC,MEMORIAS RAM,🧠,BOETEC,"Memoria: 8 GB DDR4 a 2666 MHz (PC4-21300).
+Formato SODIMM de 260 pines para laptops.
+Mejora la velocidad de multitarea y el rendimiento general del equipo.",img/p050.png
+51,3,PANTALLA SLIM 15.6 - 30 PINES FHD IPS MARCO REDUCIDO SIN GANCHOS PLACA LOGICA DE 28CM 1920 X 1080,Portátiles,PANTALLAS PARA PORTÁTIL,🖥️,GENÉRICA,"Pantalla de reemplazo de 15.6 pulgadas tipo Slim, resolución Full HD 1920 x 1080.
+Panel IPS con amplios ángulos de visión y colores vivos. Conector de 30 pines.
+Marco reducido, sin ganchos laterales y placa lógica de 28 cm. Repuesto 100% nuevo.",img/p051.png
+52,3,GENIUS  KM-100SE,Periféricos y accesorios,KIT TECLADO Y MOUSE,🎹,GENIUS,"Kit de teclado y mouse con cable USB, instalación Plug & Play.
+Teclado con distribución en Español y teclado numérico.
+Mouse óptico de precisión. Ideal para oficina y hogar.",img/p052.png
+53,3,TINTA EPSON T664,Impresión,TINTAS Y CARTUCHOS,🖨️,EPSON,"Impresoras compatibles: Epson L575, L656, L1300, L1455.
+Tinta original para sistema continuo (Tanque de tinta). Colores: negro, magenta, cian y amarillo.
+Alto rendimiento y colores nítidos.",img/p053.png
+54,3,SUPRESOR DE PICOS OMEGA 491144BK,Energía y protección,SUPRESORES DE PICO,🛡️,OMEGA,"6 salidas de tipo redondo y plano.
+Color negro con entrada USB.
+Protege tus equipos contra picos de voltaje.",img/p054.png
+55,3,TECLADO TOSHIBA L850 - C850,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,TOSHIBA,"Compatible con series: Toshiba Satellite L850, L850D, C850, C855, L855.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo con teclado numérico integrado.",img/p055.png
+56,3,CASE PARA DISCO 2.5 HDD USB 3.0,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"Compatible con discos duros y SSD de 2.5 pulgadas con interfaz SATA.
+Conexión USB 3.0 de alta velocidad.
+Convierte tu disco en una unidad externa portátil. Instalación sin herramientas.",img/p056.png
+57,3,MOUSE GENIUS DX - 101 CON CABLE,Periféricos y accesorios,MOUSES,🖱️,GENIUS,"Mouse óptico con cable USB, conexión Plug & Play.
+Sensor óptico de 1000 DPI para un desplazamiento preciso.
+Diseño ergonómico y ambidiestro para uso cómodo en oficina y hogar.",img/p057.png
+58,3,MOTOROLA EARBUDS METAL ORO ROSA,Periféricos y accesorios,AUDÍFONOS,🎧,MOTOROLA,"Audífono tipo diadema con micrófono, en metal con cuero sintético color oro rosa.
+Conector jack de 3.5 mm. Respuesta de frecuencia 20 Hz - 20 kHz e impedancia de 32 Ω.
+Diseño elegante y cómodo para uso diario.",img/p058.png
+59,3,TECLADO LOGITECH K120,Periféricos y accesorios,TECLADOS,⌨️,LOGITECH,"Teclado de tamaño completo con cable USB, instalación Plug & Play.
+Distribución en Español (Incluye tecla Ñ) con teclado numérico.
+Teclas silenciosas y diseño resistente. Ideal para oficina y hogar.",img/p059.png
+60,3,BATERIA TOSHIBA 5024 / 5109,Portátiles,BATERIAS PARA PORTÁTIL,🔋,TOSHIBA,"Compatible con laptops Toshiba Satellite C55, C55-A, C850, C855, L855, L875, P855, P875 y S855.
+Batería de iones de litio de 10.8V, larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p060.png
+61,3,CARGADOR LENOVO 20V 3.25A PUNTA USB RECTANGULAR ORIGINAL,Portátiles,CARGADORES PARA PORTÁTIL,🔌,LENOVO,"Salida: 20V / 3.25A (65W) con punta USB rectangular.
+Cargador original para laptops Lenovo compatibles (series IdeaPad, ThinkPad y similares).
+Carga estable con protección contra sobrecalentamiento.",img/p061.png
+62,3,POWER JACK TOSHIBA L730,Portátiles,JACK DE CARGA,⚡,TOSHIBA,"Conector de carga DC para laptops Toshiba Satellite L730.
+Incluye cable listo para instalar.
+Repuesto 100% nuevo. Soluciona fallas de carga por conector dañado.",img/p062.png
+63,3,COOLER HP 15CD,Portátiles,COOLERS PARA PORTÁTIL,❄️,HP,"Ventilador de refrigeración para laptops HP 15-CD.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p063.png
+64,3,ADAPTADOR HDMI A VGA CON AUDIO,Periféricos y accesorios,CABLES,🔗,GENÉRICA,"Convierte la señal HDMI (digital) a VGA (analógica) con salida de audio de 3.5 mm.
+Soporta resolución Full HD 1080p. Plug & Play, sin instalación de drivers.
+Ideal para conectar laptops, consolas o decodificadores a monitores y proyectores con VGA.",img/p064.png
+65,4,PLACA WH510 - BOETEC,Componentes de PC,PLACAS MADRE,🧩,BOETEC,"Socket LGA1200, compatible con procesadores Intel Core i3/i5/i7 de 10ma y 11va generación.
+Soporta memoria DDR4 de 2133/2400/2666 MHz, doble canal, hasta 64 GB. Conector M.2 NVMe/NGFF.
+Salidas HDMI y DVI. 2 USB 3.0, 4 USB 2.0, red RJ45, ranuras PCI-E x16 y x1, conector WiFi.",img/p065.png
+66,4,SSD SATA 512GB BOETEC 2.5 SATA III,Almacenamiento,DISCOS SSD,💽,BOETEC,"Capacidad: 512 GB. Formato de 2.5 pulgadas con interfaz SATA III.
+Velocidad de lectura de hasta 600 MB/s y escritura de hasta 550 MB/s.
+Arranque rápido, silencioso y resistente a golpes.",img/p066.png
+67,4,NVIDIA GEFORCE GT 740 4GB DDR5,Componentes de PC,TARJETAS GRÁFICAS,🎮,BOETEC,"Memoria rápida: 4 GB tipo GDDR5 (Mayor velocidad de procesamiento).
+Soporte para múltiples monitores simultáneos.
+Buen rendimiento gráfico para diseño y trabajo fluido.",img/p067.png
+68,4,PANTALLA SLIM 15.6 - 30 PINES FHD IPS MARCO REDUCIDO SIN GANCHOS// BAQUELITA 28CM 1920 X 1080 GAMUT 46%,Portátiles,PANTALLAS PARA PORTÁTIL,🖥️,GENÉRICA,"Pantalla de reemplazo de 15.6 pulgadas tipo Slim, resolución Full HD 1920 x 1080.
+Panel IPS con amplios ángulos de visión y gama de color 46%. Conector de 30 pines.
+Marco reducido, sin ganchos laterales y con baquelita de 28 cm. Repuesto 100% nuevo.",img/p068.png
+69,4,TINTA EPSON T544,Impresión,TINTAS Y CARTUCHOS,🖨️,EPSON,"Impresoras compatibles: Epson L1210, L3210, L3250, L5290.
+Tinta original para sistema continuo (Tanque de tinta). Colores: negro, magenta y cian.
+Alto rendimiento y colores nítidos.",img/p069.png
+70,4,ITVISIOU QS-501,Periféricos y accesorios,KIT TECLADO Y MOUSE,🎹,ITVISIOU,"Combo de teclado y mouse con conexión USB, color negro.
+Teclado de 104 teclas con caracteres impresos con tecnología UV. Mouse de 3 botones.
+Compatible con Windows y macOS. Ideal para oficina y hogar.",img/p070.png
+71,4,SUPRESOR DE PICOS OMEGA 498844BK,Energía y protección,SUPRESORES DE PICO,🛡️,OMEGA,"8 salidas de tipo redondo y plano.
+Entrada USB, cable de 121.92 cm.
+Protege tus equipos contra picos de voltaje.",img/p071.png
+72,4,TECLADO HP G4-1000,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,HP,"Compatible con series: HP Pavilion G4-1000 y similares.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo con teclado numérico integrado.",img/p072.png
+73,4,UGREEN CLIPBUDS INALÁMBRICOS,Periféricos y accesorios,AUDÍFONOS,🎧,UGREEN,"Audífonos inalámbricos Bluetooth con diseño abierto tipo clip (open-ear).
+Estuche de carga incluido y micrófonos integrados para llamadas.
+Cómodos para uso prolongado, sin presión dentro del oído.",img/p073.png
+74,4,CABLE PARA IMPRESORA MARCA BEST CHOICE,Periféricos y accesorios,CABLES,🔗,GENÉRICA,"Cable USB para conectar impresoras a PC y laptops (tipo A a tipo B).
+Transmisión de datos estable y de alta compatibilidad.
+Conectores resistentes y cubierta duradera.",img/p074.png
+75,4,HUB USB DE 4 PUERTOS 3.0,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"4 puertos USB 3.0 de alta velocidad (hasta 5 Gbps).
+Plug & Play, compatible con Windows, Mac y Linux.
+Diseño compacto, ideal para ampliar la conexión de mouse, teclado, memorias y discos.",img/p075.png
+76,4,MOUSE LOGITECH M90,Periféricos y accesorios,MOUSES,🖱️,LOGITECH,"Mouse óptico con cable USB, instalación Plug & Play.
+Sensor óptico de 1000 DPI para un desplazamiento preciso.
+Diseño ambidiestro y cómodo para oficina y hogar.",img/p076.png
+77,4,BATERIA HP MU06,Portátiles,BATERIAS PARA PORTÁTIL,🔋,HP,"Compatible con laptops HP Pavilion G4, G6, G7, G42, G62, G72, DM4, DV3, DV5, DV6, DV7 y Compaq Presario CQ32, CQ42, CQ43, CQ56, CQ57, CQ62, CQ72.
+Batería de iones de litio de 10.8V, larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p077.png
+78,4,CARGADOR ASUS 20V 5A PUNTA TIPO C ORIGINAL,Portátiles,CARGADORES PARA PORTÁTIL,🔌,ASUS,"Cargador original con conector USB tipo C (100 W).
+Salidas: 5V / 9V / 15V a 3A y 20V a 5A.
+Carga rápida para laptops Asus y equipos compatibles con USB-C.",img/p078.png
+79,4,POWER JACK HP CQ42,Portátiles,JACK DE CARGA,⚡,HP,"Conector de carga DC para laptops HP Pavilion G4 / Compaq CQ42.
+Incluye cable listo para instalar.
+Repuesto 100% nuevo. Soluciona fallas de carga por conector dañado.",img/p079.png
+80,4,COOLER HP 15E,Portátiles,COOLERS PARA PORTÁTIL,❄️,HP,"Ventilador de refrigeración para laptops HP 15-E.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p080.png
+81,5,SSD SATA 1TB BOETEC 2.5 SATA III,Almacenamiento,DISCOS SSD,💽,BOETEC,"Capacidad: 1 TB. Formato de 2.5 pulgadas con interfaz SATA III.
+Velocidad de lectura de hasta 600 MB/s y escritura de hasta 550 MB/s.
+Gran espacio de almacenamiento, silencioso y resistente a golpes.",img/p081.png
+82,5,TINTA EPSON T524,Impresión,TINTAS Y CARTUCHOS,🖨️,EPSON,"Impresoras compatibles: Epson EcoTank L15150, L15160, L6490, L6580.
+Tinta original para sistema continuo (Tanque de tinta). Disponible en negro, cian, magenta y amarillo.
+Alto rendimiento (hasta unas 6,000 páginas en colores) y colores nítidos.",img/p082.png
+83,5,TECLADO HP 14 AC,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,HP,"Compatible con series: HP 14-AC, 14-AF y similares.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p083.png
+84,5,BATERIA HP HS03 / HS04,Portátiles,BATERIAS PARA PORTÁTIL,🔋,HP,"Compatible con laptops HP 240, 245, 246, 250, 256 G4/G5 y Pavilion 14-AC, 14-AF, 15-AC, 15-AF, 15-AY, 15-BA, 17-X.
+Batería de iones de litio de 14.8V, larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p084.png
+85,5,MOUSE LOGITECH M170,Periféricos y accesorios,MOUSES,🖱️,LOGITECH,"Mouse inalámbrico con conexión 2.4 GHz y receptor USB Nano.
+Sensor óptico de precisión y hasta 12 meses de duración de batería.
+Diseño compacto y cómodo, ideal para laptops y oficina.",img/p085.png
+86,5,PANTALLA SLIM 15.6 - 30 PINES FHD IPS MARCO REDUCIDO SIN GANCHOS// 1920 X 1080 LOGICA INTEGRADA,Portátiles,PANTALLAS PARA PORTÁTIL,🖥️,GENÉRICA,"Pantalla de reemplazo de 15.6 pulgadas tipo Slim, resolución Full HD 1920 x 1080.
+Panel IPS con amplios ángulos de visión. Conector de 30 pines y lógica integrada.
+Marco reducido y sin ganchos laterales. Repuesto 100% nuevo.",img/p086.png
+87,5,PASTA TERMICA ECONOMICA,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"Pasta térmica para procesadores y tarjetas gráficas.
+Mejora la transferencia de calor y reduce la temperatura del equipo.
+Ideal para mantenimiento de PCs y laptops.",img/p087.png
+88,5,CARGADOR ASUS 20V 7.5A PUNTA DELGADA ORIGINAL,Portátiles,CARGADORES PARA PORTÁTIL,🔌,ASUS,"Cargador original de 150 W (20V / 7.5A) con punta delgada.
+Para laptops Asus de alto rendimiento.
+Carga estable con protección contra sobrecalentamiento.",img/p088.png
+89,5,POWER JACK LENOVO G500,Portátiles,JACK DE CARGA,⚡,LENOVO,"Conector de carga DC para laptops Lenovo G500 y series similares.
+Incluye cable listo para instalar.
+Repuesto 100% nuevo. Soluciona fallas de carga por conector dañado.",img/p089.png
+90,5,COOLER HP 15J,Portátiles,COOLERS PARA PORTÁTIL,❄️,HP,"Ventilador de refrigeración para laptops HP 15-J.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p090.png
+91,5,CABLE POWER PARA IMPRESORA,Periféricos y accesorios,CABLES,🔗,GENÉRICA,"Cable de alimentación para impresoras y equipos de oficina.
+Conductores de cobre y cubierta resistente.
+Alta compatibilidad según el modelo de la impresora.",img/p091.png
+92,6,PANTALLA SLIM 14 - 30 PINES HD CON GANCHOS 1366 X 768,Portátiles,PANTALLAS PARA PORTÁTIL,🖥️,GENÉRICA,"Pantalla de reemplazo de 14 pulgadas tipo Slim, resolución HD 1366 x 768.
+Conector de 30 pines con ganchos laterales de sujeción.
+Compatible con múltiples laptops (verificar modelo). Repuesto 100% nuevo.",img/p092.png
+93,6,TINTA CANON GI-10,Impresión,TINTAS Y CARTUCHOS,🖨️,CANON,"Impresoras compatibles: Canon MegaTank G5010, G6010, G7010, GM2010.
+Excelente rendimiento: Rinde hasta 8,300 páginas en modo economía.
+Tinta pigmentada para documentos profesionales y bordes nítidos.",img/p093.png
+94,6,TECLADO HP 14N CON FRAME,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,HP,"Compatible con series: HP 14-N y similares.
+Distribución en Español (Incluye tecla Ñ). Incluye frame (marco).
+Repuesto 100% nuevo.",img/p094.png
+95,6,BATERIA HP OA03 / OA04,Portátiles,BATERIAS PARA PORTÁTIL,🔋,HP,"Compatible con laptops HP 240, 245, 250, 255 G2/G3, 256 G3, Compaq CQ14, CQ15 y Pavilion 15-G, 15-R, 15-D.
+Batería de iones de litio de 14.8V, larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p095.png
+96,6,MOUSE INALAMBRICO GENIUS NX-7000,Periféricos y accesorios,MOUSES,🖱️,GENIUS,"Mouse inalámbrico BlueEye de 3 botones con rueda de desplazamiento.
+Resolución de 1200 DPI. Diseño para zurdos y diestros.
+Minirreceptor USB con espacio de almacenamiento en el mouse.",img/p096.png
+97,6,PASTA LIQUIDA METALICO DE 3G,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"Contenido: 3 g. Pasta térmica de alta conductividad.
+Reduce la temperatura de procesadores y tarjetas gráficas.
+Ideal para PCs gamer, laptops y mantenimiento profesional.",img/p097.png
+98,6,CARGADOR ASUS 19V 6.32A PUNTA GRUESA ORIGINAL,Portátiles,CARGADORES PARA PORTÁTIL,🔌,ASUS,"Cargador original de 120 W (19.5V / 6.32A) con punta gruesa de 5.5 x 2.5 mm.
+Para laptops Asus compatibles.
+Carga estable con protección contra sobrecalentamiento.",img/p098.png
+99,6,COOLER HP 440-G2,Portátiles,COOLERS PARA PORTÁTIL,❄️,HP,"Ventilador de refrigeración para laptops HP ProBook 440 G2.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p099.png
+100,6,CABLE VGA,Periféricos y accesorios,CABLES,🔗,GENÉRICA,"Cable VGA para conectar PC o laptop a monitor o proyector.
+Conectores de 15 pines de alta compatibilidad.
+Imagen estable y cubierta resistente.",img/p100.png
+101,7,PANTALLA SLIM 14 - 30 PINES HD MARCO REDUCIDO SIN GANCHOS 1366 X 768,Portátiles,PANTALLAS PARA PORTÁTIL,🖥️,GENÉRICA,"Pantalla de reemplazo de 14 pulgadas tipo Slim, resolución HD 1366 x 768.
+Conector de 30 pines, marco reducido y sin ganchos laterales.
+Compatible con múltiples laptops (verificar modelo). Repuesto 100% nuevo.",img/p101.png
+102,7,TINTA CANON GI-16,Impresión,TINTAS Y CARTUCHOS,🖨️,CANON,"Impresoras compatibles: Canon MAXIFY GX6010, GX7010.
+Tinta original para sistema continuo (Tanque de tinta). Colores: negro, magenta y cian.
+Alto rendimiento y colores nítidos.",img/p102.png
+103,7,TECLADO HP 14 BS,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,HP,"Compatible con series: HP 14-BS, 14-BW y similares.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p103.png
+104,7,BATERIA HP JC03 / JC04,Portátiles,BATERIAS PARA PORTÁTIL,🔋,HP,"Compatible con laptops HP 240, 245, 246, 250, 255 G6 y Pavilion 14-BS, 14-BW, 15-BS, 15-BW, 17-BS, 17-AK.
+Batería de iones de litio de larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p104.png
+105,7,CASE PARA DISCO 2.5 HDD USB 3.0 A PRESION CARGADOR DELL INSPIRON 15 3520,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"Case para disco duro o SSD de 2.5 pulgadas con conexión USB 3.0.
+Cierre a presión, instalación sin herramientas.
+Convierte tu disco en una unidad externa portátil.",img/p105.png
+106,7,MOUSE GAMER KYRIOS BOETEC,Periféricos y accesorios,MOUSES,🖱️,BOETEC,"Mouse gamer con cable USB, 7 teclas y software programable.
+DPI ajustable: 800 / 1600 / 2400 / 3200 / 4800 / 6400.
+Botones con vida útil de más de 1 millón de pulsaciones. Peso de 130 g.",img/p106.png
+107,7,CARGADOR ASUS 19V 6.32A PUNTA DELGADA CON AGUJA ORIGINAL,Portátiles,CARGADORES PARA PORTÁTIL,🔌,ASUS,"Cargador original de 120 W (19.5V / 6.32A) con punta delgada de 4.5 x 3.0 mm.
+Para laptops Asus compatibles.
+Carga estable con protección contra sobrecalentamiento.",img/p107.png
+108,7,COOLER HP 15AX,Portátiles,COOLERS PARA PORTÁTIL,❄️,HP,"Ventilador de refrigeración para laptops HP Pavilion 15-AX.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p108.png
+109,8,PANTALLA SLIM 14 - 30 PINES FHD IPS MARCO REDUCIDO SIN GANCHOS 1920 X 1080 LOGICA INTEGRADA,Portátiles,PANTALLAS PARA PORTÁTIL,🖥️,GENÉRICA,"Pantalla de reemplazo de 14 pulgadas tipo Slim, resolución Full HD 1920 x 1080.
+Panel IPS con amplios ángulos de visión. Conector de 30 pines y lógica integrada.
+Marco reducido y sin ganchos laterales. Repuesto 100% nuevo.",img/p109.png
+110,8,TINTA CANON GI-11,Impresión,TINTAS Y CARTUCHOS,🖨️,CANON,"Impresoras compatibles: Canon PIXMA G2160, G3160 y series G compatibles.
+Tinta original para sistema continuo (Tanque de tinta).
+Disponible en negro y colores. Diseño de botella para un llenado limpio y rápido.",img/p110.png
+111,8,TECLADO HP 15 CW / DA / CA/ CS SIN FRAME,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,HP,"Compatible con series: HP 15-CW, 15-DA, 15-CA, 15-CS.
+Distribución en Español (Incluye tecla Ñ). Sin frame (marco).
+Repuesto 100% nuevo con teclado numérico integrado.",img/p111.png
+112,8,BATERIA HP 210-3000,Portátiles,BATERIAS PARA PORTÁTIL,🔋,HP,"Compatible con laptops HP Mini 210-3000, Mini 110-3000, 110-3800, 110-4100 y 110-4200.
+Batería de iones de litio de 10.8V, larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p112.png
+113,8,CARGADOR ASUS 19.5V 7.7A PUNTA GRUESA CON AGUJA ORIGINAL,Portátiles,CARGADORES PARA PORTÁTIL,🔌,ASUS,"Cargador original de 150 W (19.5V / 7.7A) con punta gruesa de 6.0 x 3.7 mm.
+Para laptops Asus de alto rendimiento.
+Carga estable con protección contra sobrecalentamiento.",img/p113.png
+114,8,COOLER LENOVO G480,Portátiles,COOLERS PARA PORTÁTIL,❄️,LENOVO,"Ventilador de refrigeración para laptops Lenovo G480.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p114.png
+115,8,ADAPTADOR USB 3.0 A SATA BLISTER,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"Conecta discos duros y SSD SATA a la PC mediante USB 3.0.
+Transferencia de datos de alta velocidad. Plug & Play.
+Ideal para respaldar, recuperar o clonar información. Los discos de 3.5 pulgadas requieren alimentación externa.",img/p115.png
+116,9,TINTA CANON GI-190,Impresión,TINTAS Y CARTUCHOS,🖨️,CANON,"Impresoras compatibles: Canon MegaTank G1100, G2100, G3100, G4100.
+Tinta para sistema continuo (Tanque de tinta).
+Diseño de botella antigoteo para un llenado limpio y rápido.",img/p116.png
+117,9,PANTALLA SLIM 14 - 30 PINES FHD IPS MARCO REDUCIDO SIN GANCHOS 1920 X 1080 ULTRAFINA,Portátiles,PANTALLAS PARA PORTÁTIL,🖥️,GENÉRICA,"Pantalla de reemplazo de 14 pulgadas tipo Slim ultrafina, resolución Full HD 1920 x 1080.
+Panel IPS con amplios ángulos de visión y colores vivos. Conector de 30 pines.
+Marco reducido y sin ganchos laterales. Repuesto 100% nuevo.",img/p117.png
+118,9,"TECLADO HP 14 - DA / 14-CE /
+14-CK / 14-CD / 14-CM",Portátiles,TECLADOS PARA PORTÁTIL,⌨️,HP,"Compatible con series: HP 14-DA, 14-CE, 14-CK, 14-CD, 14-CM.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p118.png
+119,9,BATERIA HP INTERNA HT03XL COMPATIBLE,Portátiles,BATERIAS PARA PORTÁTIL,🔋,HP,"Batería interna compatible con laptops HP Pavilion 14-CE, 14-CF, 14-CK, 14-CM, 14-DF, 15-CS, 15-CW, 15-DA, 15-DB, 15-DW, 17-BY, 17-CA y HP 240, 245, 250, 255 G7.
+Código: HT03XL. Batería de iones de litio de larga duración.
+Repuesto nuevo con protección contra sobrecarga. Requiere instalación interna.",img/p119.png
+120,9,PROTECTOR DE TECLADO 15.6,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"Protector de silicona para teclados de laptops de 15.6 pulgadas.
+Protege contra polvo, líquidos derramados y desgaste.
+Material flexible y fácil de limpiar. Se adapta a la mayoría de teclados.",img/p120.png
+121,9,CARGADOR ACER 19V 3.42A PUNTA GRUESA ORIGINAL,Portátiles,CARGADORES PARA PORTÁTIL,🔌,ACER,"Salida: 19V / 3.42A (65W) con punta gruesa.
+Cargador original para laptops Acer compatibles.
+Carga estable con protección contra sobrecalentamiento.",img/p121.png
+122,9,COOLER LENOVO G560,Portátiles,COOLERS PARA PORTÁTIL,❄️,LENOVO,"Ventilador de refrigeración para laptops Lenovo G560.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p122.png
+123,10,TINTAS BROTHER BT5001 - TRIPACK,Impresión,TINTAS Y CARTUCHOS,🖨️,BROTHER,"Impresoras compatibles: Brother DCP-T220, T420W, T520W, T720DW, T820DW, T920DW.
+Pack de 3 colores: Cian, Magenta y Amarillo. Tinta original.
+Rinde aproximadamente hasta 5,000 páginas por color.",img/p123.png
+124,10,TECLADO HP 15B SIN FRAME,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,HP,"Compatible con series: HP Pavilion 15-B y similares.
+Distribución en Español (Incluye tecla Ñ). Sin frame (marco).
+Repuesto 100% nuevo.",img/p124.png
+125,10,BATERIA HP 6520,Portátiles,BATERIAS PARA PORTÁTIL,🔋,HP,"Compatible con laptops HP / Compaq 6520s, 6530s, 6720s, 6730s, 6735s, 6820s, 6830s, 510, 515, 540, 550 y 610.
+Batería de iones de litio de larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p125.png
+126,10,PILA 2032 PARA PC TIANQIU,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,TIANQIU,"Pila de litio tipo botón CR2032 de 3V.
+Mantiene la hora y la configuración del BIOS en placas madre y laptops.
+Larga duración y alta estabilidad de voltaje.",img/p126.png
+127,10,CARGADOR DELL 19.5V 3.34A PUNTA AZUL ORIGINAL,Portátiles,CARGADORES PARA PORTÁTIL,🔌,DELL,"Salida: 19.5V / 3.34A (65W) con punta azul.
+Cargador original para laptops Dell compatibles (series Inspiron, Latitude y similares).
+Carga estable con protección contra sobrecalentamiento.",img/p127.png
+128,10,COOLER LENOVO G570,Portátiles,COOLERS PARA PORTÁTIL,❄️,LENOVO,"Ventilador de refrigeración para laptops Lenovo G570.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p128.png
+129,11,TINTAS BROTHER 60BK BLACK,Impresión,TINTAS Y CARTUCHOS,🖨️,BROTHER,"Impresoras compatibles: Brother DCP-T220, T310, T420W, T510W, T520W, T710W, T720DW, T810W, T820DW, T910DW, T920DW, T925W, T4500DW, HL-T4000DW.
+Color: Negro. Calidad fotográfica original.
+Rinde aproximadamente hasta 6,000 páginas.",img/p129.png
+130,11,CARGADOR TOSHIBA 19V 3.42A PUNTA GRUESA COMPATIBLE,Portátiles,CARGADORES PARA PORTÁTIL,🔌,TOSHIBA,"Salida: 19V / 3.42A (65W) con punta gruesa.
+Cargador compatible con laptops Toshiba Satellite y series similares.
+Carga estable con protección contra sobrecalentamiento.",img/p130.png
+131,11,TECLADO HP 15BS SIN FRAME,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,HP,"Compatible con series: HP 15-BS, 15-BW, 250 G6.
+Distribución en Español (Incluye tecla Ñ). Sin frame (marco).
+Repuesto 100% nuevo.",img/p131.png
+132,11,BATERIA HP 4411,Portátiles,BATERIAS PARA PORTÁTIL,🔋,HP,"Compatible con laptops HP ProBook 4410s, 4411s, 4415s, 4416s, 4510s, 4515s y 4710s.
+Batería de iones de litio de larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p132.png
+133,11,PROTECTOR DE PANTALLA PARA 15’ Y 14´,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"Protector para pantallas de laptops de 14 y 15 pulgadas.
+Protege contra rayones, polvo y huellas.
+Fácil instalación y limpieza.",img/p133.png
+134,11,COOLER LENOVO G470,Portátiles,COOLERS PARA PORTÁTIL,❄️,LENOVO,"Ventilador de refrigeración para laptops Lenovo G470.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p134.png
+135,12,TINTAS BROTHER D100 BLACK,Impresión,TINTAS Y CARTUCHOS,🖨️,BROTHER,"Impresoras compatibles: Brother DCP-T230, T236, T430W, T436W, T530W, T536DW, T730DW, T830DW, MFC-T930DW.
+Color: Negro. Tinta original de ultra alto rendimiento.
+Rinde aproximadamente hasta 6,500 páginas.",img/p135.png
+136,12,CARGADOR ASUS 19V 3.42A PUNTA GRUESA COMPATIBLE,Portátiles,CARGADORES PARA PORTÁTIL,🔌,ASUS,"Salida: 19V / 3.42A (65W) con punta gruesa.
+Cargador compatible con laptops Asus y series similares.
+Carga estable con protección contra sobrecalentamiento.",img/p136.png
+137,12,BATERIA HP INTERNA HT03XL ORIGINAL,Portátiles,BATERIAS PARA PORTÁTIL,🔋,HP,"Batería interna original para laptops HP Pavilion 14-CE, 14-CF, 14-CK, 14-CM, 14-DF, 15-CS, 15-CW, 15-DA, 15-DB, 15-DW, 17-BY, 17-CA y HP 240, 245, 250, 255 G7.
+Código: HT03XL. Batería de iones de litio de larga duración.
+Calidad original con protección contra sobrecarga. Requiere instalación interna.",img/p137.png
+138,12,TECLADO LENOVO 330-14 ISK SIN BOTON DE ENCENDIDO,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,LENOVO,"Compatible con series: Lenovo IdeaPad 330-14.
+Distribución en Español (Incluye tecla Ñ). Versión sin botón de encendido.
+Repuesto 100% nuevo.",img/p138.png
+139,12,COOLER LENOVO G580,Portátiles,COOLERS PARA PORTÁTIL,❄️,LENOVO,"Ventilador de refrigeración para laptops Lenovo G580.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p139.png
+140,12,HVV USB C HUB 8 IN 1 MULTIFUNCTION ADAPTER,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"Hub USB-C 8 en 1 que amplía la conectividad de tu laptop o tablet.
+Incluye salida HDMI, puertos USB, lector de tarjetas SD/microSD y carga por USB-C.
+Diseño compacto y portátil, Plug & Play.",img/p140.png
+141,13,CARTUCHO CANON PG-44 XL NEGRO,Impresión,TINTAS Y CARTUCHOS,🖨️,CANON,"Impresoras compatibles: Canon PIXMA E401, E461, E471, E481.
+Color: Negro. Cartucho original de alto rendimiento (XL), 15 ml.
+Textos oscuros, nítidos y resistentes a los rayones.",img/p141.png
+142,13,CARGADOR ASUS 19V 3.42A PUNTA AGUJA DELGADA 4.5*3.0 COMPATIBLE,Portátiles,CARGADORES PARA PORTÁTIL,🔌,ASUS,"Salida: 19V / 3.42A (65W) con punta delgada con aguja de 4.5 x 3.0 mm.
+Cargador compatible con laptops Asus (series Zenbook, VivoBook y similares).
+Carga estable con protección contra sobrecalentamiento.",img/p142.png
+143,13,BATERIA HP INTERNA SR04XL /SR03XL ORIGINAL,Portátiles,BATERIAS PARA PORTÁTIL,🔋,HP,"Batería interna original para laptops HP Omen 15-CE y 15-DC, Pavilion 15-CB y 15-CX, y Envy x360 15-CN y 15-CP.
+Códigos: SR03XL / SR04XL. Batería de iones de litio de larga duración.
+Calidad original con protección contra sobrecarga. Requiere instalación interna.",img/p143.png
+144,13,TECLADO LENOVO V320-14ISK CON BOTON DE ENCENDIDO,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,LENOVO,"Compatible con series: Lenovo V320-14ISK y similares.
+Distribución en Español (Incluye tecla Ñ). Versión con botón de encendido.
+Repuesto 100% nuevo.",img/p144.png
+145,13,KIT DE LIMPIEZA,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,AIRBOOM,"Kit de limpieza Airboom con paño de microfibra y solución limpiadora de 100 ml.
+Elimina polvo, huellas y suciedad de pantallas, teclados y equipos electrónicos.
+No daña las superficies.",img/p145.png
+146,13,COOLER ASUS X550,Portátiles,COOLERS PARA PORTÁTIL,❄️,ASUS,"Ventilador de refrigeración para laptops Asus X550.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p146.png
+147,14,TINTA HP GT52-GT53,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Impresoras compatibles: HP Ink Tank 315, 415, GT5810, GT5820.
+Tinta original para sistema de tanque de tinta (botella).
+Disponible en negro y colores. Alto rendimiento y colores nítidos.",img/p147.png
+148,14,CARGADOR HP 19.5V 3.33A PUNTA AZUL COMPATIBLE,Portátiles,CARGADORES PARA PORTÁTIL,🔌,HP,"Salida: 19.5V / 3.33A (65W) con punta azul.
+Cargador compatible con laptops HP (series Pavilion, 14, 15 y similares).
+Carga estable con protección contra sobrecalentamiento.",img/p148.png
+149,14,BATERIA INTERNA LENOVO COMPATIBLE L15L2PB2,Portátiles,BATERIAS PARA PORTÁTIL,🔋,LENOVO,"Batería interna compatible con laptops Lenovo IdeaPad 310-14ISK, 310-14IKB y 310-14IAP.
+Código: L15L2PB2. Batería de iones de litio de larga duración.
+Repuesto nuevo con protección contra sobrecarga. Requiere instalación interna.",img/p149.png
+150,14,TECLADO LENOVO 330-15 ISK SIN BOTON DE ENCENDIDO,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,LENOVO,"Compatible con series: Lenovo IdeaPad 330-15.
+Distribución en Español (Incluye tecla Ñ). Versión sin botón de encendido.
+Repuesto 100% nuevo.",img/p150.png
+151,14,COOLER ASUS X555L,Portátiles,COOLERS PARA PORTÁTIL,❄️,ASUS,"Ventilador de refrigeración para laptops Asus X555L.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p151.png
+152,14,MOUSE PAD DISEÑO MAPAMUNDI,Periféricos y accesorios,ACCESORIOS DE CÓMPUTO,🧰,GENÉRICA,"Mouse pad con diseño de mapamundi.
+Base de caucho y superficie de tela de poliéster.
+Mejora el deslizamiento y la precisión del mouse.",img/p152.png
+153,15,CARTUCHO HP 46,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Impresoras compatibles: HP DeskJet Ink Advantage 2020hc, 2520hc, 2029, 2529, 4729.
+Cartucho de inyección original, disponible en negro y tricolor.
+Textos nítidos y colores vibrantes.",img/p153.png
+154,15,CARGADOR LENOVO 20V 3.25A PUNTA DELGADA COMPATIBLE,Portátiles,CARGADORES PARA PORTÁTIL,🔌,LENOVO,"Salida: 20V / 3.25A (65W) con punta delgada.
+Cargador compatible con laptops Lenovo (series IdeaPad y similares).
+Carga estable con protección contra sobrecalentamiento.",img/p154.png
+155,15,BATERIA INTERNA LENOVO COMPATIBLE 310-15ISK / L16L2PB2,Portátiles,BATERIAS PARA PORTÁTIL,🔋,LENOVO,"Batería interna compatible con laptops Lenovo IdeaPad 320-14, 320-15, 320-17 y 330-14, 330-15 (versiones ISK, IKB, AST, ABR, IAP, IGM).
+Código: L16L2PB2. Batería de iones de litio de larga duración.
+Repuesto nuevo con protección contra sobrecarga. Requiere instalación interna.",img/p155.png
+156,15,TECLADO LENOVO 320-15ISK CON BOTON DE ENCENDIDO,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,LENOVO,"Compatible con series: Lenovo IdeaPad 320-15ISK y similares.
+Distribución en Español (Incluye tecla Ñ). Versión con botón de encendido.
+Repuesto 100% nuevo.",img/p156.png
+157,15,COOLER ACER 5810,Portátiles,COOLERS PARA PORTÁTIL,❄️,ACER,"Ventilador de refrigeración para laptops Acer Aspire 5810.
+Evita el sobrecalentamiento y mejora el rendimiento del equipo.
+Funcionamiento silencioso. Repuesto 100% nuevo.",img/p157.png
+158,16,CARTUCHO HP 664,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Impresoras compatibles: HP DeskJet Ink Advantage 1115, 2135, 3635, 3775, 4535, 4675.
+Cartucho de inyección original, disponible en negro y tricolor.
+Textos nítidos y colores vibrantes.",img/p158.png
+159,16,CARGADOR LENOVO 20V 3.25A PUNTA USB COMPATIBLE,Portátiles,CARGADORES PARA PORTÁTIL,🔌,LENOVO,"Salida: 20V / 3.25A (65W) con punta USB.
+Cargador compatible con laptops Lenovo (series IdeaPad, ThinkPad y similares).
+Carga estable con protección contra sobrecalentamiento.",img/p159.png
+160,16,BATERIA LENOVO G400S / L12S4A02 / G500S,Portátiles,BATERIAS PARA PORTÁTIL,🔋,LENOVO,"Compatible con laptops Lenovo IdeaPad G400s, G405s, G410s, G500s, G505s, G510s, S410p, S510p y Z710.
+Código: L12S4A02. Batería de iones de litio de larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p160.png
+161,16,TECLADO LENOVO V310-15ISK,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,LENOVO,"Compatible con series: Lenovo V310-15ISK y similares.
+Distribución en Español (Incluye tecla Ñ) con teclado numérico.
+Repuesto 100% nuevo.",img/p161.png
+162,17,CARTUCHO HP 667,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Impresoras compatibles: HP DeskJet Ink Advantage 1275, 2375, 2775, 2776 y DeskJet Plus 6075, 6475.
+Cartucho de inyección original, disponible en negro y tricolor.
+Textos nítidos y colores vibrantes.",img/p162.png
+163,17,BATERIA DELL WXDOR ORIGINAL,Portátiles,BATERIAS PARA PORTÁTIL,🔋,DELL,"Batería original para laptops Dell Inspiron 15 (5565, 5567, 5568, 5570, 5578, 7560, 7569, 7570, 7579), Inspiron 13 (5368, 5378, 7368, 7378) e Inspiron 17 (5765, 5767).
+Código: WDX0R (42 Wh, 11.4V). Batería de iones de litio de larga duración.
+Calidad original con protección contra sobrecarga.",img/p163.png
+164,17,CARGADOR ACER 19V 3.42A PUNTA GRUESA COMPATIBLE,Portátiles,CARGADORES PARA PORTÁTIL,🔌,ACER,"Salida: 19V / 3.42A (65W) con punta gruesa.
+Cargador compatible con laptops Acer y series similares.
+Carga estable con protección contra sobrecalentamiento.",img/p164.png
+165,17,TECLADO LENOVO G40 / Z40 / B40,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,LENOVO,"Compatible con series: Lenovo G40-30, G40-45, G40-70, Z40-70, B40-70.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p165.png
+166,18,CARTUCHO HP 662,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Impresoras compatibles: HP DeskJet Ink Advantage 1015, 1515, 2515, 2545, 2645, 3515, 3545, 4645.
+Cartucho de inyección original, disponible en negro y tricolor.
+Textos nítidos y colores vibrantes.",img/p166.png
+167,18,BATERIA DELL MR90Y,Portátiles,BATERIAS PARA PORTÁTIL,🔋,DELL,"Compatible con laptops Dell Inspiron 14 (3421), 14R (5421, 5437), 15 (3521, 3537, 3542), 15R (5521, 5537), 17 (3721, 3737) y 17R (5721, 5737), además de Latitude 3440 y 3540.
+Batería de iones de litio de 11.1V / 65 Wh, larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p167.png
+168,18,CARGADOR ACER 19V 3.42A PUNTA FINA COMPATIBLE,Portátiles,CARGADORES PARA PORTÁTIL,🔌,ACER,"Salida: 19V / 3.42A (65W) con punta fina.
+Cargador compatible con laptops Acer (series Aspire, Swift y similares).
+Carga estable con protección contra sobrecalentamiento.",img/p168.png
+169,18,TECLADO LENOVO G470,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,LENOVO,"Compatible con series: Lenovo G470, G475, B470, V470 y similares.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p169.png
+170,19,CARTUCHO HP 711,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Impresoras (plotters) compatibles: HP DesignJet T100, T120, T125, T130, T520, T525, T530.
+Cartucho original disponible en negro de 80 ml y en colores (cian, magenta, amarillo) de 29 ml.
+Impresión de planos y gráficos de gran formato con colores nítidos.",img/p170.png
+171,19,BATERIA DELL M5Y1K,Portátiles,BATERIAS PARA PORTÁTIL,🔋,DELL,"Compatible con laptops Dell Inspiron 14 (3451, 3452, 3458), 15 (3551, 3552, 3558, 3567, 5555, 5558, 5559) y 17 (5755, 5758), además de Vostro 3458, 3558 y Latitude 3460, 3560, 3470, 3570.
+Código: M5Y1K. Batería de iones de litio de 14.8V, larga duración.
+Repuesto 100% nuevo con protección contra sobrecarga.",img/p171.png
+172,19,CARGADOR DELL 19.5V 3.34A PUNTA AGUJA DELGADA COMPATIBLE,Portátiles,CARGADORES PARA PORTÁTIL,🔌,DELL,"Salida: 19.5V / 3.34A (65W) con punta delgada con aguja.
+Cargador compatible con laptops Dell (series Inspiron, Vostro y similares).
+Carga estable con protección contra sobrecalentamiento.",img/p172.png
+173,19,TECLADO LENOVO G50 / Z50 / B50,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,LENOVO,"Compatible con series: Lenovo G50-30, G50-45, G50-70, Z50-70, B50-30, B50-70.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p173.png
+174,20,CARTUCHO HP 712,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Impresoras (plotters) compatibles: HP DesignJet T210, T230, T250, T630, T650 y Studio.
+Cartucho original de 29 ml en colores (cian, magenta, amarillo).
+Impresión de planos y gráficos de gran formato con colores nítidos.",img/p174.png
+175,20,BATERIA INTERNA DELL YRDD6 ORIGINAL,Portátiles,BATERIAS PARA PORTÁTIL,🔋,DELL,"Batería interna original para laptops Dell Inspiron 5480, 5482, 5485, 5491, 5493, 5590, 5591, 3493, 3582, 3583, 3593, 5584 y 7586, Vostro 3491, 5481, 5581 y Latitude 3310 2-en-1.
+Código: YRDD6 (42 Wh, 11.4V). Batería de iones de litio de larga duración.
+Calidad original con protección contra sobrecarga. Requiere instalación interna.",img/p175.png
+176,20,CARGADOR DELL 19.5V 3.34A PUNTA AGUJA COMPATIBLE,Portátiles,CARGADORES PARA PORTÁTIL,🔌,DELL,"Salida: 19.5V / 3.34A (65W) con punta con aguja.
+Cargador compatible con laptops Dell (series Inspiron, Vostro y similares).
+Carga estable con protección contra sobrecalentamiento.",img/p176.png
+177,20,TECLADO LENOVO 100-15IBY,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,LENOVO,"Compatible con series: Lenovo IdeaPad 100-15IBY, B50-10.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p177.png
+178,21,CARTUCHO HP 88,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Impresoras compatibles: HP Officejet Pro K550, K5400, K8600 y L7480, L7590, L7680, L7780 (AIO).
+Cartucho original de inyección, disponible en magenta y cian.
+Impresión profesional con colores vivos.",img/p178.png
+179,21,BATERIA INTERNA ACER AC14B8K ORIGINAL,Portátiles,BATERIAS PARA PORTÁTIL,🔋,ACER,"Batería interna original para laptops Acer Aspire R3-131T, R5-471T, R5-571T, R7-371T, E3-111, E3-112, ES1-511, ES1-512, ES1-531, Chromebook CB5-571 y Swift 3 SF314-51 / SF314-52.
+Código: AC14B8K. Batería de iones de litio de larga duración.
+Calidad original con protección contra sobrecarga. Requiere instalación interna.",img/p179.png
+180,21,TECLADO LENOVO Y540-15IRH SIN ILUMINACION,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,LENOVO,"Compatible con series: Lenovo Legion Y540-15IRH.
+Distribución en Español (Incluye tecla Ñ). Versión sin retroiluminación.
+Repuesto 100% nuevo.",img/p180.png
+181,22,KIT CABEZAL HP,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Kit de cabezal de impresión HP, solo negro.
+Compatible con HP DeskJet GT5800 Series y HP Ink Tank 300/400 Series.
+Restablece la calidad de impresión. Repuesto de fácil instalación.",img/p181.png
+182,22,BATERIA INTERNA ASUS X451,Portátiles,BATERIAS PARA PORTÁTIL,🔋,ASUS,"Batería interna compatible con laptops Asus X451, X451C, X451CA, X551, X551C, X551CA y X551M.
+Códigos: A31N1319 / A41N1308. Batería de iones de litio de larga duración.
+Repuesto nuevo con protección contra sobrecarga. Requiere instalación interna.",img/p182.png
+183,22,TECLADO LENOVO THINKPAD E525,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,LENOVO,"Compatible con series: Lenovo ThinkPad Edge E520, E525.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p183.png
+184,23,TONER NEVERSTOP LASER 103A - NEGRO,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Marca HP, modelo 103A. Color: Negro.
+Compatible con: Neverstop Laser 1000a, 1000w, 1000nw, 1200a, 1200w, 1200nw.
+Rinde aproximadamente hasta 2,500 páginas.",img/p184.png
+185,23,TECLADO ASUS X540,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,ASUS,"Compatible con series: Asus X540, X540L, X540S, X540U.
+Distribución en Español (Incluye tecla Ñ).
+Diseño tipo isla (Chiclet) para escritura ergonómica.",img/p185.png
+186,23,BATERIA INTERNA ASUS X453,Portátiles,BATERIAS PARA PORTÁTIL,🔋,ASUS,"Batería interna compatible con laptops Asus X453 y X553.
+Código: B21N1329. Batería de iones de litio de larga duración.
+Repuesto nuevo con protección contra sobrecarga. Requiere instalación interna.",img/p186.png
+187,24,BATERIA INTERNA ASUS X540,Portátiles,BATERIAS PARA PORTÁTIL,🔋,ASUS,"Batería interna compatible con laptops Asus X540, X540S, X540L, X540SA, X540LA y X540YA.
+Código: A31N1519. Batería de iones de litio de larga duración.
+Repuesto nuevo con protección contra sobrecarga. Requiere instalación interna.",img/p187.png
+188,24,TECLADO ASUS X541,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,ASUS,"Compatible con series: Asus X541, X541S, X541U, X541N.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p188.png
+189,24,CABEZAL NEGRO MOH51AL,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Cabezal de impresión HP color negro (M0H51A).
+Compatible con HP DeskJet GT5800 Series y HP Ink Tank 300/400 Series.
+Restablece la calidad de impresión. Repuesto de fácil instalación.",img/p189.png
+190,25,TECLADO ASUS X551,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,ASUS,"Compatible con series: Asus X551, X551C, X551M, X551CA.
+Distribución en Español.
+Conexión de flex de alta durabilidad y sensibilidad original.",img/p190.png
+191,25,CABEZAL TRICOLOR M0H50A,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Cabezal de impresión HP tricolor (M0H50A).
+Compatible con HP GT5810, GT5820, Ink Tank 315, 415, 515 y 580.
+Restablece colores vivos y sin fallas. Repuesto de fácil instalación.",img/p191.png
+192,26,TECLADO ASUS X556,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,ASUS,"Compatible con series: Asus X556, X556U, X556UA, X556UB, X556UJ.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p192.png
+193,26,CABEZAL NEGRO X4E75AL,Impresión,TINTAS Y CARTUCHOS,🖨️,HP,"Cabezal de impresión HP color negro (X4E75AL).
+Compatible con HP Smart Tank 500, 530, 615, 720, 750 y 790.
+Restablece la calidad de impresión. Repuesto de fácil instalación.",img/p193.png
+194,27,TECLADO ASUS S400,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,ASUS,"Compatible con series: Asus S400, S400C, S400CA, S400E, S500.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p194.png
+195,28,TECLADO ASUS K551,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,ASUS,"Compatible con series: Asus K551, K551L, K551LA, K551LB, K551LN.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p195.png
+196,29,TECLADO ASUS K50 K51,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,ASUS,"Compatible con series: Asus K50, K50AB, K50ID, K50IJ, K51, K60, K70.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p196.png
+197,30,TECLADO ASUS N56,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,ASUS,"Compatible con series: Asus N56, N56V, N56VZ, N56VM, N76.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo con teclado numérico integrado.",img/p197.png
+198,31,TECLADO ACER E5 573G,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,ACER,"Compatible con series: Acer Aspire E5-573, E5-573G, F5-572.
+Distribución en Español (Incluye tecla Ñ).
+Teclado numérico integrado. Repuesto 100% nuevo.",img/p198.png
+199,32,TECLADO SAMSUNG R513 - R522,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,SAMSUNG,"Compatible con series: Samsung R513, R515, R517, R518, R520, R522.
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p199.png
+200,33,TECLADO SONY VPC EH SIN FRAME,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,SONY,"Compatible con series: Sony Vaio VPC-EH. Sin frame (marco).
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p200.png
+201,34,TECLADO DELL 15 5565 / 15-5567 / 17-5765 SIN RETROILUMINACIÓN,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,DELL,"Compatible con series: Dell Inspiron 15-5565, 15-5567, 17-5765.
+Distribución en Español (Incluye tecla Ñ). Versión sin retroiluminación.
+Repuesto 100% nuevo.",img/p201.png
+202,35,TECLADO DELL 15 3000,Portátiles,TECLADOS PARA PORTÁTIL,⌨️,DELL,"Compatible con series: Dell Inspiron 15 3000 (verificar modelo).
+Distribución en Español (Incluye tecla Ñ).
+Repuesto 100% nuevo.",img/p202.png
+203,36,"TECLADO DELL LATITUD E5450, E5490, E7450, E7470 NEGRO",Portátiles,TECLADOS PARA PORTÁTIL,⌨️,DELL,"Compatible con series: Dell Latitude E5450, E5490, E7450, E7470.
+Distribución en Español (Incluye tecla Ñ). Color negro.
+Repuesto 100% nuevo.",img/p203.png
+204,1,INTEL CORE I3-7100,Componentes de PC,PROCESADORES Y COOLERS,🌀,INTEL,"Procesador Intel Core i3 de 7ma generación (Kaby Lake), socket LGA1151.
+2 núcleos / 4 hilos, frecuencia de 3.9 GHz y 3 MB de caché. Gráficos integrados Intel HD 630.
+Ideal para PCs de oficina, estudio y uso diario. Bajo consumo (51W).",img/p204.png
+205,1,COOLER FAN DE COBRE PARA LGA 1200 65W HIGH,Componentes de PC,PROCESADORES Y COOLERS,🌀,HIGH COOLER,"Cooler con base de cobre para procesadores Intel de hasta 65W.
+Compatible con socket Intel LGA1200 (y LGA1151/1150/1155 según modelo).
+Ventilador silencioso con buena disipación de calor.",img/p205.png
+206,2,COOLER FAN DE COBRE PARA LGA 1200 95W HIGH,Componentes de PC,PROCESADORES Y COOLERS,🌀,HIGH COOLER,"Cooler con base de cobre para procesadores Intel de hasta 95W.
+Compatible con socket Intel LGA1200 (y LGA1151/1150/1155 según modelo).
+Ventilador silencioso y mayor disipación de calor para uso exigente.",img/p206.png
